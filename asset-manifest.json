@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/el-bouhaly/Tp5-react/static/css/main.451a701c.css",
-    "main.js": "/el-bouhaly/Tp5-react/static/js/main.e8c451f3.js",
-    "static/js/787.7eab8dd4.chunk.js": "/el-bouhaly/Tp5-react/static/js/787.7eab8dd4.chunk.js",
-    "static/media/img1.jpg": "/el-bouhaly/Tp5-react/static/media/img1.a214bb1ec1aca1483974.jpg",
-    "static/media/img5.jpg": "/el-bouhaly/Tp5-react/static/media/img5.b8b218001e7c3ff01f0b.jpg",
-    "static/media/img4.jpg": "/el-bouhaly/Tp5-react/static/media/img4.cf88fd0137f75436c6f6.jpg",
-    "static/media/img3.jpg": "/el-bouhaly/Tp5-react/static/media/img3.18411d2a6414ed3389f0.jpg",
-    "static/media/img2.jpg": "/el-bouhaly/Tp5-react/static/media/img2.6f99d7f794e6bb3872db.jpg",
-    "static/media/logo.svg": "/el-bouhaly/Tp5-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/el-bouhaly/Tp5-react/index.html",
-    "main.451a701c.css.map": "/el-bouhaly/Tp5-react/static/css/main.451a701c.css.map",
-    "main.e8c451f3.js.map": "/el-bouhaly/Tp5-react/static/js/main.e8c451f3.js.map",
-    "787.7eab8dd4.chunk.js.map": "/el-bouhaly/Tp5-react/static/js/787.7eab8dd4.chunk.js.map"
+    "main.css": "/Tp5_react/static/css/main.451a701c.css",
+    "main.js": "/Tp5_react/static/js/main.6e12ce48.js",
+    "static/js/787.7eab8dd4.chunk.js": "/Tp5_react/static/js/787.7eab8dd4.chunk.js",
+    "static/media/img1.jpg": "/Tp5_react/static/media/img1.a214bb1ec1aca1483974.jpg",
+    "static/media/img5.jpg": "/Tp5_react/static/media/img5.b8b218001e7c3ff01f0b.jpg",
+    "static/media/img4.jpg": "/Tp5_react/static/media/img4.cf88fd0137f75436c6f6.jpg",
+    "static/media/img3.jpg": "/Tp5_react/static/media/img3.18411d2a6414ed3389f0.jpg",
+    "static/media/img2.jpg": "/Tp5_react/static/media/img2.6f99d7f794e6bb3872db.jpg",
+    "static/media/logo.svg": "/Tp5_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tp5_react/index.html",
+    "main.451a701c.css.map": "/Tp5_react/static/css/main.451a701c.css.map",
+    "main.6e12ce48.js.map": "/Tp5_react/static/js/main.6e12ce48.js.map",
+    "787.7eab8dd4.chunk.js.map": "/Tp5_react/static/js/787.7eab8dd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.451a701c.css",
-    "static/js/main.e8c451f3.js"
+    "static/js/main.6e12ce48.js"
   ]
 }
