@@ -1,6 +1,6 @@
 {
   "name": "nom-de-votre-projet",
-  
+  "homepage": "https://el-bouhaly.github.io/Tp5_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
