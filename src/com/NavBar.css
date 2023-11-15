@@ -59,9 +59,9 @@ nav{
 .div22{
     display:inline;
     position: relative;
-    left: 270px;
+    left: 170px;
     top: 10px;
-    
+    background-color: red;
 }
 .div11{
     display: inline;
