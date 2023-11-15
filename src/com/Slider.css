@@ -40,10 +40,11 @@ text-align: center;
     position: relative;
     left: -300px;
   position: fixed;
+  
   }
   .item{
-    min-height: 11rem;
-    min-width: 11rem;
+    min-height: 10rem;
+    min-width: 10rem;
     padding: 40px 20px;
   }
 }
