@@ -35,10 +35,15 @@ text-align: center;
 @media (max-width:732px){
   .carousel{
     
-    width: 350px;
+    width: 300px;
     height: 100%;
     position: relative;
-    left: -170px;
-  
+    left: -400px;
+  position: fixed;
+  }
+  .item{
+    min-height: 11rem;
+    min-width: 11rem;
+    padding: 40px 20px;
   }
 }
