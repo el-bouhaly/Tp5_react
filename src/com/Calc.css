@@ -1,6 +1,14 @@
-
-
+*{
+  font-family: initial;
+  font-size: 18px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .contaire{
+  
   left: 50%;
   position: absolute;
   transform: translate(-50%,50%);
@@ -10,8 +18,7 @@
   border: 10px solid #101116;
   background: #101116;
   border-radius: 20px;
-  bottom: 270px;
-  
+  bottom: 45%;
 }
 #keypade{
   display: grid;
@@ -64,8 +71,8 @@ input:active{
   background: rgb(252, 217, 15);
 }
 
-@media (max-width:1199px){
+/* @media (max-width:1199px){
   .contaire{
   width: 250px;
   
- } }
+ } } */
