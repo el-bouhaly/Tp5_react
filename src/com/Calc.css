@@ -18,7 +18,7 @@ body{
   border: 10px solid #101116;
   background: #101116;
   border-radius: 20px;
-  bottom: 45%;
+  bottom: 50%;
 }
 #keypade{
   display: grid;
@@ -71,8 +71,9 @@ input:active{
   background: rgb(252, 217, 15);
 }
 
-/* @media (max-width:1199px){
+@media (max-width:1199px){
   .contaire{
   width: 250px;
-  
- } } */
+  position: relative;
+  top: 200px;
+ } }

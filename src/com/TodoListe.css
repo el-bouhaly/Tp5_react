@@ -121,9 +121,9 @@ button:focus{
 }
 @media (max-width:732px){
   .app-wrapper{
-    width: 250px;
-    margin-left: -30px;
-  
+    width: 320px;
+    margin-left: -9px;
+    margin-top: 400px;
  }
  @media (max-width:732px){
  .task-input{
@@ -151,6 +151,7 @@ left: 70px;
 .list-item{
  width: 200px;
   margin-left: -17px;
+  
   }
  }
 } 
