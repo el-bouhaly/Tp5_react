@@ -1,14 +1,49 @@
+ #link1{
+    position: relative;
+    top: 15px;
+    height: 1px;
+    display:inline-block;
+    padding-top: 0px;
+}
+#link4{
+    position: relative;
+    left: 100px;
+    top: 15px;
+    display:inline-block;
+    height: 1px;
+    padding-top: 0px;
+    
+}
+#link3{
+    position: relative;
+    left: 100px;
+    top: 15px;
+    height: 1px;
+    display:inline-block;
+    padding-top: 0px;
+}
+#link2{
+    position: relative;
+    left: 100px;
+    top: 15px;
+    height: 1px;
+    display:inline-block;
+    padding-top: 0px;
+} 
+ 
+
 .nav-top {
-    margin: auto ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    max-width: 900px;
+   
+    
     background-color: rgb(11, 11, 123);
     border-radius: 8px;
-    padding: 0px 20px;
-    box-shadow: 0 10px 20px rgba(19, 19, 19, 0.2);
+    padding: 0px 400px 40px;
+    margin-top: 0px;
+    position: fixed;
+    right: 90px;
+    top: 0px;
+    left: 0px;
+    
    }
    
    .nav-top a {
@@ -16,29 +51,54 @@
         text-decoration: none;
         color: #f1f1f1;
         padding: 40px 40px;
+    
        }
-.todo-list{
-    margin-top: 40px;
-    margin-left: 90px;
-    font-size: 30px;
-    color: firebrick;
+nav{
+    width: 100%;
 }
-.ul{
-    margin-left: 90px;
-    margin-top: 20px;
+.div22{
+    display:inline;
+    position: relative;
+    left: 80px;
+    top: 10px;
+    
 }
-.but1{
-    margin-left: 180px;
-    margin-top: 30px;
-    width: 20%;
+.div11{
+    display: inline;
     height: 40px;
-    border-radius: 10px;
-    background-color: blue;
+    position: relative;
+    right: 340px;
+    top: 10px;
+    
+    
 }
-.but2{
-border-radius: 10px;
-    margin-top: 30px;
-    width: 20%;
-    height: 40px;
-    background-color: blue;
+
+@media (max-width:1199px){
+    .div22{
+    display: block;
+    
+   } 
+}
+@media (max-width:732px){
+    #link2{
+     display: inline-block;
+    position: relative;
+    left: 0px;
+     
+   }} 
+   @media (max-width:732px){
+    #link4{
+     display: inline-block;
+    position: relative;
+    left: 0px;
+     
+   }} 
+   @media (max-width:732px){
+    #link3{
+     display: inline-block;
+    position: relative;
+    left: 0px;
+    right: 50px;
+     
+   } 
 }

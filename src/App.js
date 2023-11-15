@@ -4,14 +4,14 @@ import Api from './com/Api';
 import Slider from './com/Slider';
 import Calc from './com/Calc';
 import { Routes,Route } from 'react-router-dom';
-import Navbar from './com/NavBar';
+import BasicExample from './com/BasicExample';
 import Appp from './com/Appp';
 function App() {
   
   
   return (
     <div >
-      <Navbar />  
+      <BasicExample />  
      <Routes>
       <Route path='/' element={<Calc/>}/>
       <Route path='/Slider' element={<Slider/>}/>

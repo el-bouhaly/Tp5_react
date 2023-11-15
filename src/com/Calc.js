@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Calc.css'
-export default function Tp1() {
+export default function Calc() {
   const [result,setresult]=useState("");
   const handleClick=(e)=>{
     setresult(result.concat(e.target.name));

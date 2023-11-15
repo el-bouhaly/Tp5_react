@@ -3,17 +3,17 @@
   overflow: hidden;
   cursor: grab;
   width: 34%;
-  height: 50%;
-  margin-left: 640px;
-  margin-top: 0px;
+  height: 100%;
+  margin-left: 410px;
+  margin-top: 100px;
 
 }
 .inner{
   display: flex;
 }
 .item{
-  min-height: 13rem;
-  min-width: 13rem;
+  min-height: 19rem;
+  min-width: 16rem;
   padding: 40px 20px;
 }
 .item img{
@@ -26,4 +26,9 @@
   color: brown;
   font-size:50px;
 text-align: center;
+}
+.slide{
+  
+  position: relative;
+  top: 150px;
 }

@@ -13,7 +13,7 @@ const Slider=()=> {
     setwidth(carouselRef.current.scrollWidth - carouselRef.current.offsetWidth);
   },[]);
   return (
-    <div >
+    <div className="slide">
       <motion.div className="carousel" ref={carouselRef}>
        <motion.div drag="x" dragConstraints={{right:0,left:-width}} className="inner">
         {images.map((imge)=>(
