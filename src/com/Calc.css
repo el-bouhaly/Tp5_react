@@ -5,7 +5,7 @@
   position: absolute;
   transform: translate(-50%,50%);
   margin: 0 auto;
-  width: 256px;
+  width: 2100px;
   text-align: center;
   border: 10px solid #101116;
   background: #101116;
@@ -64,3 +64,8 @@ input:active{
   background: rgb(252, 217, 15);
 }
 
+@media (max-width:1199px){
+  .contaire{
+  width: 250px;
+  
+ } }
