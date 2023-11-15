@@ -32,3 +32,13 @@ text-align: center;
   position: relative;
   top: 150px;
 }
+@media (max-width:732px){
+  .carousel{
+    
+    width: 350px;
+    height: 100%;
+    position: relative;
+    left: -170px;
+  
+  }
+}
