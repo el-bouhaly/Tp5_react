@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tp5_react/static/css/main.228cc1b5.css",
-    "main.js": "/Tp5_react/static/js/main.5b978697.js",
+    "main.css": "/Tp5_react/static/css/main.eedd9c77.css",
+    "main.js": "/Tp5_react/static/js/main.4ed8c4c6.js",
     "static/js/787.7eab8dd4.chunk.js": "/Tp5_react/static/js/787.7eab8dd4.chunk.js",
     "static/media/img1.jpg": "/Tp5_react/static/media/img1.a214bb1ec1aca1483974.jpg",
     "static/media/img5.jpg": "/Tp5_react/static/media/img5.b8b218001e7c3ff01f0b.jpg",
@@ -13,12 +13,12 @@
     "static/media/spain.svg": "/Tp5_react/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
     "static/media/france.svg": "/Tp5_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
     "index.html": "/Tp5_react/index.html",
-    "main.228cc1b5.css.map": "/Tp5_react/static/css/main.228cc1b5.css.map",
-    "main.5b978697.js.map": "/Tp5_react/static/js/main.5b978697.js.map",
+    "main.eedd9c77.css.map": "/Tp5_react/static/css/main.eedd9c77.css.map",
+    "main.4ed8c4c6.js.map": "/Tp5_react/static/js/main.4ed8c4c6.js.map",
     "787.7eab8dd4.chunk.js.map": "/Tp5_react/static/js/787.7eab8dd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.228cc1b5.css",
-    "static/js/main.5b978697.js"
+    "static/css/main.eedd9c77.css",
+    "static/js/main.4ed8c4c6.js"
   ]
 }
