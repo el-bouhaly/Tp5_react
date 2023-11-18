@@ -109,3 +109,35 @@ nav{
      
    } 
 }
+
+
+@media (max-width:400px){
+    #link1{
+        position: relative;
+        left: -60px;
+      
+       
+      }
+    #link2{
+     display: inline-block;
+    position: relative;
+    left: -390px;
+    
+   }
+   #link4{
+    display: inline-block;
+   position: relative;
+   left: -390px;
+    
+  }
+
+  #link3{
+    display: inline-block;
+   position: relative;
+   left: -390px;
+   right: 50px;
+    
+  }
+
+} 
+  
