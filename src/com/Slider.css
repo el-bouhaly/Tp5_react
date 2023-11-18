@@ -4,7 +4,7 @@
   cursor: grab;
   width: 34%;
   height: 100%;
-  margin-left: 410px;
+  margin-left: 700px;
   margin-top: 100px;
 
 }
@@ -12,8 +12,8 @@
   display: flex;
 }
 .item{
-  min-height: 19rem;
-  min-width: 16rem;
+  min-height: 13rem;
+  min-width: 13rem;
   padding: 40px 20px;
 }
 .item img{
@@ -37,14 +37,29 @@ text-align: center;
     
     width: 300px;
     height: 100%;
-    position: relative;
-    left: -200px;
+    margin-left: 210px;
   position: fixed;
   
   }
   .item{
     min-height: 10rem;
     min-width: 10rem;
+    padding: 40px 20px;
+  }
+}
+@media (max-width:1199px){
+  .carousel{
+    
+    width: 300px;
+    height: 100%;
+    position: relative;
+    left: -140px;
+  position: fixed;
+  
+  }
+  .item{
+    min-height: 15rem;
+    min-width: 15rem;
     padding: 40px 20px;
   }
 }

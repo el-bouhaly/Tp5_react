@@ -80,24 +80,30 @@ nav{
    } 
 }
 @media (max-width:732px){
+    #link1{
+        position: relative;
+        left: -50px;
+      
+       
+      }
     #link2{
      display: inline-block;
     position: relative;
-    left: -460px;
+    left: -330px;
     
    }} 
    @media (max-width:732px){
     #link4{
      display: inline-block;
     position: relative;
-    left: -460px;
+    left: -330px;
      
    }} 
    @media (max-width:732px){
     #link3{
      display: inline-block;
     position: relative;
-    left: -460px;
+    left: -330px;
     right: 50px;
      
    } 

@@ -119,6 +119,12 @@ input:focus,
 button:focus{
   outline:none;
 }
+@media (max-width:1199px){
+  .app-wrapper{
+    width: 500px;
+    margin-left: -9px;
+    margin-top: 400px;
+ }}
 @media (max-width:732px){
   .app-wrapper{
     width: 320px;
