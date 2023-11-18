@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import React from 'react';
 // import React,{useState} from 'react';
 import Api from './com/Api';
 import Slider from './com/Slider';
@@ -7,12 +8,14 @@ import { Routes,Route } from 'react-router-dom';
 import BasicExample from './com/BasicExample';
 import Appp from './com/Appp';
 import Lang from './Lang'
+
 function App() {
   
   
   return (
     <div >
     {/* <Lang/> */}
+    
       <BasicExample />  
      <Routes>
       <Route path='/' element={<Lang/>}/>

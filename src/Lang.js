@@ -5,13 +5,13 @@ import ContextProvider from "./context/langContext";
 import Colour from './Colour'
 function App() {
   return (
-    <>
+    <div>
     <Colour/>
     <ContextProvider>
       <ToggleLangs />
       <Contenu />
     </ContextProvider>
-    </>
+    </div>
   );
 }
 
